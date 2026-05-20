@@ -88,4 +88,9 @@ O notebook demonstra:
 ## Autor
 
 Jônatas Rafael
-Ilum — Escola de Ciência 
+(Ilum Escola de Ciência)
+
+## Orientador
+
+Dr. Daniel Roberto Cassar
+(Ilum Escola de Ciência)
